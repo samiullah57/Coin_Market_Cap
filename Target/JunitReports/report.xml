@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="87.016">
+<testcase classname="CoinMarket cap application functionality" name="Verify that in CoinMarket cap application user can able to collect the coins and compare after with the filtered coins." time="84.914">
+<system-out><![CDATA[When user launch the Coin cap application...................................passed
+And user clicks on ShowRows DropDown........................................passed
+Then user Fetching the coins values and comparing the results using assert..passed
+]]></system-out>
+</testcase>
+</testsuite>

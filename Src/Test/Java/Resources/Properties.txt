@@ -1,0 +1,2 @@
+url=http://coinmarketcap.com
+browsername=chrome
